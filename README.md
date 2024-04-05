@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @masterrmind1
-- 👀 I’m interested in Angular
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on Angular and Python
+- 👀 I’m interested in JAVA FullStack
+- 🌱 I’m currently Working on Java Springboot Microservices
+- 💞️ I’m looking to collaborate on Angular and JAVA
 - 📫 To reach me mail me at rajputp2007@gmail.com
 
 <!---
